@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2010\Projects\GDD2\GDD2\GDD2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Documents\GDD2\GDD2\GDD2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\jcf8824\IGMProfile\Desktop\GDD2\GDD2\GDD2\GDD2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\rpm4295\IGMProfile\Desktop\GDD2\GDD2\GDD2\GDD2\GDD2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\alg7860\IGMProfile\Desktop\GDD2\GDD2\GDD2Content\obj\x86\Debug\ResolveAssemblyReference.cache
